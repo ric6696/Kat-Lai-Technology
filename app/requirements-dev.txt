@@ -1,0 +1,12 @@
+# Pre-Commit
+pre-commit
+# Testing
+pytest
+pytest-cov
+# Type Checking
+mypy
+boto3-stubs
+botocore-stubs
+types-passlib
+# Linting
+ruff

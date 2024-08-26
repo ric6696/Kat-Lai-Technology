@@ -1,0 +1,13 @@
+# Running the server
+fastapi>=0.112.0
+uvicorn>=0.30.5
+python-multipart==0.0.9   # Handling Forms
+# AWS's DynamoDB API for Python
+boto3>=1.34.157
+# Data Validation
+pydantic>=2.8.2
+# Authentication
+PyJWT==2.9.0
+passlib[bcrypt]==1.7.4
+# Helpers and Utilities
+httpx==0.27.0   # HTTP Client

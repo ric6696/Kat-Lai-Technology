@@ -1,0 +1,2 @@
+username = rootadmintest
+serial-number = TEST0100000002

@@ -1,0 +1,7 @@
+### File Format: Add elements in separate lines, ensure that all elements are lowercase ###
+### For implementation reference, refer to: API/app/models/__init__.py ###
+metal
+earth
+off
+fire
+wood
